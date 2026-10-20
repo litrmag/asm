@@ -167,4 +167,3 @@ Vm_error_status StackOut (SPU* spu)
     printf ("%d\n", value);
     return VM_OKAY;
 }
-//TODO: STACK_CANARY_BEGIN , убери обход stackverify на и канарейку пофикси пж пж
